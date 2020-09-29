@@ -1,7 +1,0 @@
-0;img;C:\Users\hipjk\Documents\FAN-Site\img
-1;Videos;C:\Users\hipjk\Videos
-2;FAN-Site;C:\Users\hipjk\Documents\FAN-Site
-3;Renamed;C:\Users\hipjk\Pictures\Renamed
-4;Documents;C:\Users\hipjk\Documents
-5;Desktop;C:\Users\hipjk\Desktop
-6;scratch;C:\Users\hipjk\Documents\FAN-Site\scratch

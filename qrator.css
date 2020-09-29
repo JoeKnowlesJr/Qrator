@@ -1,0 +1,34 @@
+#center {
+    background: black;
+}
+
+#title {
+    -fx-font: 69px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 25%, blue 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+.line-sep {
+    -fx-background-color: #00f;
+    -fx-background-radius: 3;
+}
+
+.target {
+    -fx-pref-height: 30;
+    -fx-background-color: #666;
+    -fx-background-radius: 3;
+}
+
+.rBtn {
+    -fx-font-size: 13;
+}
+
+.btn-auto {
+    -fx-border-color: lightblue;
+    -fx-font-size: 13;
+    -fx-border-insets: -5;
+    -fx-border-radius: 5;
+    -fx-border-style: dotted;
+    -fx-border-width: 2;
+}
